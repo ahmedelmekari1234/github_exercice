@@ -2,6 +2,15 @@
 
 ## Multimedia
 
+***introduction***
+
+Le titre se nomme : La recherche du futur.
+
+l'auteur : Ahmed El-Mekari
+
+Date : 28 novembre 2025
+
+description : un monde qui tourne autour de la programmation web et de l'animation.
 1. El-Mekari Ahmed. Présentation numérique portant sur l’analyse d’un profil multimédia. Intégration en Multimédia session 01.
 2. Le choix du futur.
 J’ai choisi tim à cause de principes :
@@ -22,7 +31,7 @@ Domaine moins
 -	Photoshop : j’ai un petit talent, mais le travail derrière est trop long. Honnetement, je ne pourrai pas répondre maintenant.
 7. Choix de carrière
 -	Doctorant en web vers la polytechnique ou l’ÉTS. Je veux être un ingénieur et ma capacité à bien être sociale avec un leadership me permettra de faire des projets hauts.
-2e choix :
+8. 2e choix :
 -	Animation 2D 3D. Je serai mieux dedans lorsqu’on parle de leadership. Le domaine m’intéresse pour l’Instant, mais je n’ai pas encore essayé !!
 Conclusion
 -	En bref, je suis quelqu’un de doué lorsqu’Il s’agit d’effectuer un travail en équipe, mais je n’arrive pas à poser mes idées quand je travaille seul ou en petites équipes. Cela me bloque quand il y a une impasse
