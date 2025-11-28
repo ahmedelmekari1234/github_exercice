@@ -11,6 +11,8 @@ l'auteur : Ahmed El-Mekari
 Date : 28 novembre 2025
 
 description : un monde qui tourne autour de la programmation web et de l'animation.
+
+**Contenu du Powerpoint**
 1. El-Mekari Ahmed. Présentation numérique portant sur l’analyse d’un profil multimédia. Intégration en Multimédia session 01.
 2. Le choix du futur.
 J’ai choisi tim à cause de principes :
