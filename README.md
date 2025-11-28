@@ -6,11 +6,11 @@
 
 Le titre se nomme : La recherche du futur.
 
-l'auteur : Ahmed El-Mekari
+L'auteur : Ahmed El-Mekari
 
 Date : 28 novembre 2025
 
-description : un monde qui tourne autour de la programmation web et de l'animation.
+Description : un monde qui tourne autour de la programmation web et de l'animation.
 
 **Contenu du Powerpoint**
 1. El-Mekari Ahmed. Présentation numérique portant sur l’analyse d’un profil multimédia. Intégration en Multimédia session 01.
@@ -35,7 +35,7 @@ Domaine moins
 -	Doctorant en web vers la polytechnique ou l’ÉTS. Je veux être un ingénieur et ma capacité à bien être sociale avec un leadership me permettra de faire des projets hauts.
 8. 2e choix :
 -	Animation 2D 3D. Je serai mieux dedans lorsqu’on parle de leadership. Le domaine m’intéresse pour l’Instant, mais je n’ai pas encore essayé !!
-Conclusion
+9.Conclusion
 -	En bref, je suis quelqu’un de doué lorsqu’Il s’agit d’effectuer un travail en équipe, mais je n’arrive pas à poser mes idées quand je travaille seul ou en petites équipes. Cela me bloque quand il y a une impasse
 
 ![diagramme-de-flux-ahmed-el-mekari](https://github.com/user-attachments/assets/877fe1a8-53b2-402f-8abc-ca9d355d6d2e)
