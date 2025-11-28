@@ -26,4 +26,8 @@ Domaine moins
 -	Animation 2D 3D. Je serai mieux dedans lorsqu’on parle de leadership. Le domaine m’intéresse pour l’Instant, mais je n’ai pas encore essayé !!
 Conclusion
 -	En bref, je suis quelqu’un de doué lorsqu’Il s’agit d’effectuer un travail en équipe, mais je n’arrive pas à poser mes idées quand je travaille seul ou en petites équipes. Cela me bloque quand il y a une impasse
-  
+
+![diagramme-de-flux-ahmed-el-mekari](https://github.com/user-attachments/assets/877fe1a8-53b2-402f-8abc-ca9d355d6d2e)
+
+
+<img width="1211" height="1601" alt="carte-mentale" src="https://github.com/user-attachments/assets/c2f43d9d-bf25-4b02-95af-7515cc2e5f8e" />
